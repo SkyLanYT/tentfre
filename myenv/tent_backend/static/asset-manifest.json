@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tent-freelance/static/css/main.b55968e4.css",
+    "main.js": "/tent-freelance/static/js/main.a349032b.js",
+    "static/media/Latka.png": "/tent-freelance/static/media/Latka.ce3f8809289c47923cd5.png",
+    "static/media/hero-image.jpg": "/tent-freelance/static/media/hero-image.d872513b0b5273195deb.jpg",
+    "static/media/usedTent.png": "/tent-freelance/static/media/usedTent.ae252b3377775c30cdde.png",
+    "static/media/facebook.png": "/tent-freelance/static/media/facebook.4401c9fb45adbe7d76d3.png",
+    "static/media/search4.png": "/tent-freelance/static/media/search4.eda15e7e4ac760506a6f.png",
+    "static/media/search6.png": "/tent-freelance/static/media/search6.7ac7cb2748a0af2b2b24.png",
+    "static/media/search3.png": "/tent-freelance/static/media/search3.16830ad88c818549efe2.png",
+    "static/media/search5.png": "/tent-freelance/static/media/search5.23f6e60a37111903cc11.png",
+    "static/media/Ellipse 12.png": "/tent-freelance/static/media/Ellipse 12.9ee000beb5707fbe65eb.png",
+    "static/media/search2.png": "/tent-freelance/static/media/search2.923fb7414edaf5b53db5.png",
+    "static/media/Ellipse 18.png": "/tent-freelance/static/media/Ellipse 18.4badca3795427caf6bc1.png",
+    "static/media/Ellipse 15.png": "/tent-freelance/static/media/Ellipse 15.d881485579110774f68c.png",
+    "static/media/search1.png": "/tent-freelance/static/media/search1.3290eb807eacd992cd81.png",
+    "static/media/Ellipse 17.png": "/tent-freelance/static/media/Ellipse 17.e29f2bd023edee05c54f.png",
+    "static/media/Ellipse 14.png": "/tent-freelance/static/media/Ellipse 14.cf32b153395d7a20df76.png",
+    "static/media/Ellipse 13.png": "/tent-freelance/static/media/Ellipse 13.82754b41b125312ab30b.png",
+    "static/media/Ellipse 16.png": "/tent-freelance/static/media/Ellipse 16.2b35de864bbe176f2eb3.png",
+    "static/media/Ellipse 11.png": "/tent-freelance/static/media/Ellipse 11.a9cd34c13f48637f44d3.png",
+    "static/media/Group1-step.svg": "/tent-freelance/static/media/Group1-step.df0329708c3cdabd5aa6.svg",
+    "static/media/free-icon-soldering-8638535 13-step.svg": "/tent-freelance/static/media/free-icon-soldering-8638535 13-step.9dce9386f97854ae602e.svg",
+    "static/media/Group2-step.svg": "/tent-freelance/static/media/Group2-step.25678ac6cb6974b0fd26.svg",
+    "static/media/logo-tent.svg": "/tent-freelance/static/media/logo-tent.49ed4c869594304eabcb69b75917b0ba.svg",
+    "static/media/Group3-step.svg": "/tent-freelance/static/media/Group3-step.ad25c64108306f3423df.svg",
+    "index.html": "/tent-freelance/index.html",
+    "static/media/de-flag.svg": "/tent-freelance/static/media/de-flag.f049313078b7dbb69b117fb9c328449e.svg",
+    "static/media/es-flag.svg": "/tent-freelance/static/media/es-flag.54324966f756e1d9f9e5eb8bc1aff39a.svg",
+    "static/media/search.svg": "/tent-freelance/static/media/search.9dc6684393d843713780cc8daec7df3f.svg",
+    "static/media/arrowLeft.svg": "/tent-freelance/static/media/arrowLeft.9af9451c5d97d81f3992.svg",
+    "static/media/arrowRight.svg": "/tent-freelance/static/media/arrowRight.41b8e488a64963061243.svg",
+    "static/media/burger-menu.svg": "/tent-freelance/static/media/burger-menu.c4e213bf787adc69f6104a01eb559d39.svg",
+    "main.b55968e4.css.map": "/tent-freelance/static/css/main.b55968e4.css.map",
+    "main.a349032b.js.map": "/tent-freelance/static/js/main.a349032b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55968e4.css",
+    "static/js/main.a349032b.js"
+  ]
+}
