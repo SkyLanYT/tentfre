@@ -1,0 +1,80 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 27px;
+}
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48.76px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  color: rgba(2, 129, 94, 1);
+  margin: 0 auto;
+  margin-bottom: 78px;
+}
+
+.loginForm,
+label {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 463px;
+  margin: 0 auto;
+}
+
+.loginForm {
+  margin-bottom: 70px;
+  gap: 27px;
+}
+label {
+  color: rgba(33, 33, 33, 1);
+  gap: 4px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.38px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+input {
+  width: 100%;
+  height: 66px;
+  border: 1px solid rgba(38, 38, 38, 0.5);
+  border-radius: 10px;
+  padding: 24px 27px;
+  font-size: 24px;
+}
+
+.loginBtnWrapper {
+  display: flex;
+}
+
+.loginButton,
+.registerButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 252px;
+  height: 59px;
+  background-color: rgba(2, 129, 94, 1);
+  color: white;
+  border-radius: 15px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.38px;
+  text-align: left;
+}
+
+.registerButton {
+  background-color: #fbfbfd;
+  color: rgba(241, 117, 86, 1);
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.registerButton:hover {
+  text-decoration: none;
+}

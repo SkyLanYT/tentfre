@@ -1,0 +1,107 @@
+.usedTentList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 12px;
+  width: 100%;
+  padding: 0px 16px;
+  margin: 0 auto;
+  min-height: 280px;
+  max-height: 720px;
+  overflow-x: auto;
+  margin-bottom: 12px;
+}
+
+.usedTentItem {
+  width: calc(100% / 1.5);
+  max-width: 318px;
+}
+
+.usedTentImage {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+  margin-bottom: 16px;
+}
+
+.tentTitle {
+  font-size: 12px;
+  line-height: 14.63px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.tentPrice {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17.07px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgba(255, 0, 0);
+  margin-bottom: 8px;
+}
+
+.tentLocation,
+.date {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 12.19px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 6px;
+  height: 70px;
+  border-radius: 15px;
+  background-color: rgba(2, 129, 94, 1);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24.2px;
+  text-align: center;
+  margin: 20px auto;
+  position: relative;
+  margin-top: 60px;
+}
+
+
+.addOgo {
+  /* No longer needed due to centered link class */
+}
+
+.loginLink {
+  /* No longer needed due to centered link class */
+}
+
+@media screen and (min-width: 768px) {
+  .usedTentList {
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    overflow: inherit;
+  }
+
+  .usedTentItem {
+    display: flex;
+    flex-direction: column;
+    width: calc((100% - 60px) / 4);
+    cursor: pointer;
+    height: auto;
+  }
+
+  .usedTentImage {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+  }
+}
+
